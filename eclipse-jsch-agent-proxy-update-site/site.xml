@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.jcraft.jsch.agent.proxy.eclipse.pageant_1.0.0.201809102304.jar" id="com.jcraft.jsch.agent.proxy.eclipse.pageant" version="1.0.0.201809102304"/>
+   <feature url="features/com.jcraft.jsch.agent.proxy.eclipse.sshagent_1.0.0.201809102304.jar" id="com.jcraft.jsch.agent.proxy.eclipse.sshagent" version="1.0.0.201809102304"/>
+</site>
